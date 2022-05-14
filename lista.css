@@ -1,0 +1,47 @@
+.sup{
+    width: 100%;
+    font-size: 22px;
+    font-family: sans-serif;
+    background: #4710c1;
+    color: #fff;
+    padding: 10px ;
+}
+img{
+    width: 100%;
+}
+a{
+    border-radius: 15px;
+    padding: 8px;
+    color: black;
+    background-color: aliceblue;
+    font-size: 15px;
+    
+}
+h1,h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 12px
+}
+.imagem{
+    width: 700px;
+    text-align: center;
+    background-position:center;    
+}
+.imgo{
+    overflow-x: scroll;
+    display: flex;
+    width:100;
+    height: 200px;
+    margin: 20px;
+
+}
+.mm{
+    box-shadow: 10px 10px 10px brown;
+    padding: 7px;px;
+    
+}
